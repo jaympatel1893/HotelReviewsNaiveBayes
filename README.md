@@ -1,4 +1,4 @@
-# Dillinger
+# Naive Bayes Classifier for Hotel Reviews
 
 A Naive Bayes classifier to identify hotel reviews as either truthful or deceptive, and either positive or negative.
 ### Training Data:
