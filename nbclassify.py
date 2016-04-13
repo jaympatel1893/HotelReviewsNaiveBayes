@@ -112,20 +112,3 @@ for dirName, subdirList, fileList in os.walk(file_path):
                 # print first_class + " " + second_class + " " + absolute_file_path
 
 file_out.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
